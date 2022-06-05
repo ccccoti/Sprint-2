@@ -36,39 +36,3 @@ function concatenar(){
 
 }
 
-
-
-
-
-
-
-
-// let personas = []
-// let montos = []
-
-// personas.push(document.getElementById("persona"))
-// montos.push(document.getElementById("monto"))
-
-
-// function pegarResultado(resultado) {
-//     let nodo= document.getElementById("resultado")
-//     nodo.innerText=resultado
-// }
-
-
-// function division(){
-//     let total = 0
-//     for (let monto in montos){
-//     total +=monto
-//     }
-//     return total
-
-//     let divi = 0
-//     for (let i=1;i<montos.length;i++){
-//         divi += i
-//     }
-//     return divi
-
-//     let cuenta = total/divi
-//     return cuenta
-// }
